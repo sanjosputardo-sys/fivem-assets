@@ -1,0 +1,2 @@
+# fivem-assets
+xd
